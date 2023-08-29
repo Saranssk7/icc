@@ -6,3 +6,9 @@ england
 southafrica
 pakisthan
 zimbabae
+
+Quaterfinal :
+            1.india
+            2.australia
+            3.pakisthan
+            4.newzealand
