@@ -1,11 +1,7 @@
 india
-srilanka
 australia
 newzealand
-england
-southafrica
 pakisthan
-zimbabae
 
 Quaterfinal :
             1.india
@@ -16,3 +12,10 @@ Quaterfinal :
 Semifinal :
             1.india
             2,newzealand
+
+Final:
+            1.india
+            2.srilanka
+
+winner:
+            INDIA
