@@ -1,12 +1,12 @@
 india
 australia
 newzealand
-pakisthan
+pakistan
 
 Quaterfinal :
             1.india
             2.australia
-            3.pakisthan
+            3.pakistan
             4.newzealand
 
 Semifinal :
