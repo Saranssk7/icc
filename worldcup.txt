@@ -19,4 +19,4 @@ Final:
 
 winner:
             INDIA
-    Congratulations India
+    
